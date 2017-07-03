@@ -2,6 +2,8 @@
 layout: post
 title: Nutrient management
 published: true
+subtitle: Nutrients essential for plant growth
+date: 2017/07/03
 ---
 
 Plants, like all other living things, need nutrients for their growth and development. Nutrients refer to elements or chemical compounds (ions) which are required by organisms (in our case plants) for their normal growth, development, metabolism and to complete their life cycle. Research has determined that plants require 16 nutrients, also called essential elements (Marschner, 1995). Essential elements are best defined as Elements (nutrients) which are required by the plants for their normal growth and development and are not replaceable in their function by any other nutrients (Mengel, 2001). To be classified as essential element, an element needs to meet the following criteria:
