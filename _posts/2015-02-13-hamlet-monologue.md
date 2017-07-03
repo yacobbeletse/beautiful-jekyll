@@ -1,41 +1,11 @@
 ---
 layout: post
-title: To be
-subtitle: ... or not to be?
+title: Nutrient management
+published: true
 ---
 
-To be, or not to be--that is the question:
-Whether 'tis nobler in the mind to suffer
-The slings and arrows of outrageous fortune
-Or to take arms against a sea of troubles
-And by opposing end them. To die, to sleep--
-No more--and by a sleep to say we end
-The heartache, and the thousand natural shocks
-That flesh is heir to. 'Tis a consummation
-Devoutly to be wished. To die, to sleep--
-To sleep--perchance to dream: ay, there's the rub,
-For in that sleep of death what dreams may come
-When we have shuffled off this mortal coil,
-Must give us pause. There's the respect
-That makes calamity of so long life.
-For who would bear the whips and scorns of time,
-Th' oppressor's wrong, the proud man's contumely
-The pangs of despised love, the law's delay,
-The insolence of office, and the spurns
-That patient merit of th' unworthy takes,
-When he himself might his quietus make
-With a bare bodkin? Who would fardels bear,
-To grunt and sweat under a weary life,
-But that the dread of something after death,
-The undiscovered country, from whose bourn
-No traveller returns, puzzles the will,
-And makes us rather bear those ills we have
-Than fly to others that we know not of?
-Thus conscience does make cowards of us all,
-And thus the native hue of resolution
-Is sicklied o'er with the pale cast of thought,
-And enterprise of great pitch and moment
-With this regard their currents turn awry
-And lose the name of action. -- Soft you now,
-The fair Ophelia! -- Nymph, in thy orisons
-Be all my sins remembered.
+Plants, like all other living things, need nutrients for their growth and development. Nutrients refer to elements or chemical compounds (ions) which are required by organisms (in our case plants) for their normal growth, development, metabolism and to complete their life cycle. Research has determined that plants require 16 nutrients, also called essential elements (Marschner, 1995). Essential elements are best defined as Elements (nutrients) which are required by the plants for their normal growth and development and are not replaceable in their function by any other nutrients (Mengel, 2001). To be classified as essential element, an element needs to meet the following criteria:
+1.	Omission of the element in question must result in abnormal growth, failure to complete lifecycle, or premature death of the plant
+2.	The element’s function cannot be replaced by another element
+3.	The element must directly involve on growth or metabolism and not some indirect effect such as by antagonizing another element present at toxic level
+There are about 16 essential elements. Out of the 16 elements Carbon, Hydrogen, and Oxygen are considered to be non-mineral nutrients as they are originated from air and water, rather than from soil minerals. Although Carbon, Hydrogen and Oxygen represent approximately 95% of plant biomass, they are generally given little attention in plant nutrition as they are always abundantly available. The remaining 13 of the essential elements (Nitrogen, Phosphorus, Potassium, Calcium, Magnesium, Sulfur, Iron, Zinc, Manganese, Copper, Boron, Molybdenum, and Chlorine) are supplied either from soil minerals and organic matter or by organic or inorganic fertilizers. 
