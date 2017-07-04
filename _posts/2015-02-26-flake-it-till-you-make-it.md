@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Using crop models illustrating the consequence of irrigation and nitrogen
-  management on crop water productivity
+title: Using crop models illustrating the consequence of irrigation and nitrogen management on crop water productivity
 subtitle: >-  Modelling soil water and nitrate
 bigimg: /img/path.jpg
 published: true
