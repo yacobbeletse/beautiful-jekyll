@@ -6,49 +6,17 @@ published: true
 date: 2017/07/03
 ---
 
-You can write regular [markdown](http://markdowntutorial.com/) here and Jekyll will automatically convert it to a nice webpage.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](http://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
+Irrigation scheduling, or irrigation water management, ensures that water is consistently available to the plant and that it is applied according to crop requirements.
+Proper irrigation scheduling will improve profitability and water use efficiency by:
+1. maximizing crop yield and quality
+2. decreasing water lost through deep 2. percolation and runoff; and
+3. optimizing pumping costs.
 
-**Here is some bold text**
-
-## Here is a secondary heading
-
-Here's a useless table:
- 
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
- 
-
-How about a yummy crepe?
-
-![Crepe](http://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
-
-Here's a code chunk:
-
-~~~
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-~~~
-
-And here is the same code with syntax highlighting:
-
-```javascript
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-```
-
-And here is the same code yet again but with line numbers:
-
-{% highlight javascript linenos %}
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-{% endhighlight %}
+To effectively schedule irrigation applications, four key pieces of information need to be known:
+1. soil texture;1.
+2. water holding capacity of the soil;2.
+3. soil moisture content; and
+4. crop water use at the specific development 4. stage.
+Another factor that should be considered within a scheduling program is knowing the allowable depletion of the crop, that is how much water can be removed from the soil profile prior to stressing the crop.
+The limitations of an irrigation system can impact a scheduling program, so it is necessary to be aware of how much water can be applied efficiently to the crop and the time duration required to apply a specific amount of irrigation.
+This publication is intended to provide irrigators more info will be posted in the near future.
