@@ -27,7 +27,7 @@ navbar-links:
   Resources:
     - Virtual Irrigation Academy: "https://via.farm//"
     - VIA e-learning: "http://www.yacobbeletse.com:3838/VIAsimclim/"
-    - GitHub Pages: "https://pages.github.com/"
+ #   - GitHub Pages: "https://pages.github.com/"
   Author's home: "http://yacobbeletse.com:VIAsimclim"
 
 # Image to show in the navigation bar - image must be a square (width = height)
@@ -66,7 +66,7 @@ footer-links-active:
   email: true
   twitter: true
   google-plus: false
-  github: true
+  github: false
   reddit: false
   linkedin: false
   xing: false
